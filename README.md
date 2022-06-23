@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @taka2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-taka2004/taka2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+OLA MEU NOME É PABLO LUIS 
+- 👀 MEU IMAIL DE CONTATO É PABLOLUISZALCANTARA@HOTMAIL.COM
+- 🌱ESTOU INTERESADO A APRENDER A PROGRAMAR
+- 💞 ESTOU APRENDENDO A POGRAMAR AGORA JAVASCRIPT E SCRATCH
